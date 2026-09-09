@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# App data
+backend/shelf.db
+
+# setup.bat remembers the project path here
+.shelf_path
+
+# QA screenshots are regenerated; keep docs/ if you want them in the repo
